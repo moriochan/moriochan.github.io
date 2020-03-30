@@ -1,2 +1,3 @@
 # moriochan.github.io
-first
+
+https://moriochan.github.io/
